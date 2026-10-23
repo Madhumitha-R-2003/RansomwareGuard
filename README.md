@@ -120,14 +120,3 @@ RansomwareGuard/
 
 RansomwareGuard aims to improve individual-user file protection by combining real-time file monitoring, suspicious activity detection, Telegram-based alerts, automatic backup synchronization, and file restoration. The application provides a centralized desktop interface to monitor security events and manage responses to potential ransomware activity.
 
-## 🔮 Future Enhancements
-
-- Improve ransomware detection accuracy
-- Add backup integrity verification
-- Introduce secure configuration management
-- Add detailed security reports and activity summaries
-- Enhance recovery testing and backup management
-
-## 📄 License
-
-This project is intended for educational and research purposes. Add a specific open-source license if you plan to distribute the project publicly.
